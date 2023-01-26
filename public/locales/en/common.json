@@ -1,0 +1,22 @@
+{
+  "loading": "Loading...",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "unknown_error": "Unknown error",
+  "validations": {
+    "required": "This field is required",
+    "invalid_type": "Invalid type",
+    "invalid_email": "Email is invalid",
+    "invalid_phone": "Phone is invalid",
+    "invalid_url": "URL is invalid",
+    "too_small": {
+      "string": "Minimum number of characters: {{min}}",
+      "number": "Minimum value: {{min}}"
+    },
+    "too_big": {
+      "string": "Maximum number of characters: {{max}}",
+      "number": "Maximum value: {{max}}"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "loading": "Se încarcă...",
+  "login": "Autentificare",
+  "email": "Email",
+  "password": "Parolă",
+  "unknown_error": "Eroare necunoscută",
+  "validations": {
+    "required": "Aceast câmp este obligatoriu",
+    "invalid_type": "Tipul de date este incorect",
+    "invalid_email": "Adresa de email este incorectă",
+    "invalid_phone": "Numărul de telefon este incorect",
+    "invalid_url": "Adresa URL este incorectă",
+    "too_small": {
+      "string": "Număr minim de caractere: {{min}}",
+      "number": "Valoarea minimă: {{min}}"
+    },
+    "too_big": {
+      "string": "Număr maxim de caractere: {{max}}",
+      "number": "Valoare maximă: {{max}}"
+    }
+  }
+}
